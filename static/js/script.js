@@ -48,7 +48,7 @@ L.mapbox.accessToken = 'YOUR_ACCESS_TOKEN';
                   pathLayer.setStyle(pathStyle);
                 }
               } else {
-                alert(response.message)
+                alert(response.message);
               }
             },
             error: function(errorMsg){
