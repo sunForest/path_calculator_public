@@ -47,7 +47,7 @@ This is a web service for finding the shortest path on a surface with boundary a
 
     location /static {  
           # change this to your project path  
-        alias /home/ubuntu/mySites/path.calculator.com/pathCalculator/static;  
+        alias /home/ubuntu/mySites/path.calculator.com/path_calculator_public/static;  
     }  
 
     location / {  
